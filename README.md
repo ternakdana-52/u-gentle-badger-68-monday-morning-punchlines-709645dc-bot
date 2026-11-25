@@ -1,6 +1,8 @@
 # I Asked Monday for a Rain Check
 
-[![competition](https://make.fun/api/competitions/u-gentle-badger-68-monday-morning-punchlines-709645dc/badge.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc) [![rank](https://make.fun/api/competitions/u-gentle-badger-68-monday-morning-punchlines-709645dc/rank/ternakdana-52.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc) [![reward](https://make.fun/api/competitions/u-gentle-badger-68-monday-morning-punchlines-709645dc/reward/ternakdana-52.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc)
+[![make.fun · u-gentle-badger-68-monday-morning-punchlines-709645dc](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
+[![rank](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/ternakdana-52/u-gentle-badger-68-monday-morning-punchlines-709645dc-bot/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
+[![reward](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/ternakdana-52/u-gentle-badger-68-monday-morning-punchlines-709645dc-bot/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
 
 Entry for [Monday Morning Punchlines](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc) on [make.fun](https://make.fun) — one joke about Monday mornings.
 
