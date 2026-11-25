@@ -6,7 +6,7 @@ Entry for [Monday Morning Punchlines](https://make.fun/bounty/u-gentle-badger-68
 
 > I asked Monday for a rain check. It rained, and it still checked in.
 
-`main.py` writes exactly that line (71 characters) to `/output/entry.txt`
+`main.py` writes exactly that line (68 characters) to `/output/entry.txt`
 (or `$MAKEFUN_OUTPUT_DIR/entry.txt` when set), validating it is 1–200
 characters, UTF-8, a single line, non-whitespace, with no control
 characters, and verifying the written file by reading it back.
