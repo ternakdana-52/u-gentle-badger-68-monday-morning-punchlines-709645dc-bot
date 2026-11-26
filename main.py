@@ -8,7 +8,7 @@ no network, no randomness.
 import os
 import sys
 
-JOKE = "I asked Monday for a rain check. It rained, and it still checked in."
+JOKE = "Monday is the only day that shows up to work before I do, and it has the nerve to act surprised that I am late."
 
 
 def main() -> int:
